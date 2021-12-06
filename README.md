@@ -5,11 +5,9 @@ Causal Analysis based on System Theory (CAST) is an accident analysis technique 
 https://psas.scripts.mit.edu/home/get_file4.php?name=CAST_handbook.pdf
 
 
-## CAST introduction
+## CAST goals
 
 Accidents create learning opportunities to look closely at the operation of a system in times of stress, and identify areas for improvement. Examining individual system components can help yet is not enough-- it is necessary to examine the operation of the system as whole.
-
-CAST goals:
 
 1. Include all causes and optimize all learning, in order to improve the system as a whole; do not focus on merely a few “probable causes” or one “root cause”, and do not focus on fixing merely a few areas or one area.
 
@@ -21,89 +19,94 @@ CAST goals:
 
 5. Use a comprehensive accident causality model that emphasizes why the controls that were created to prevent the particular type of loss were not effective in the case at hand and how to strengthen the safety control structure to prevent similar losses in the future. 
 
-CAST steps:
-
-1. Assemble basic information.
-
-2. Model safety control structure.
-
-3. Analyze each component in loss.
-
-4. Identify control structure flaws.
-
-5. Create improvement program.
-
 
 ## CAST analysis 
 
 The goal of analysis is to identify the limitations of the safety control structure that allowed the loss and identify how to strengthen the structure in the future.
 
-1. Assemble basic information. Collect the basic information in order to perform the analysis.
+<ol type="1">
 
-  a. Define the system involved and the boundary of the analysis.
+ <li>Assemble basic information. This is in order to perform the analysis.
 
-  b. Describe the loss and hazardous state that led to it.
-
-  c. From the hazard, identify the system-level safety constraints required to prevent the hazard (the system safety requirements and constraints). 
-
-  d. Describe what happened (the events) without conclusions nor blame. Generate questions that need to be answered to explain why the events occurred. 
-
-  e. Analyze the physical loss in terms of the physical equipment and controls, the requirements on the physical design to prevent the hazard involved, the physical controls (emergency and safety equipment) included in the design to prevent this type of accident, failures and unsafe interactions leading to the hazard, missing or inadequate physical controls that might have prevented the accident, and any contextual factors that influenced the events. 
+  <ol type="1">
   
-  * Accident 
+   <li>System. Define the system involved and the boundary of the analysis.</li>
 
-  * Hazards 
+   <li>Accident. Describe the loss.</li>
 
-  * Constraints 
+   <li>Hazards. Describe the system states and then environment conditions that led to the accident.</li>
 
-  * Events
+   <li>Constraints. Identify the system-level safety constraints required to prevent the hazard (the system safety requirements and constraints).</li>
 
-  * Physical Loss 
+   <li>Events. Describe what happened (the events) without conclusions nor blame. Generate questions that need to be answered to explain why the events occurred.</li>
 
-  * Questions
+   <li>Physical loss. Analyze the physical loss in terms of the physical equipment and controls, the requirements on the physical design to prevent the hazard involved, the physical controls (emergency and safety equipment) included in the design to prevent this type of accident, failures and unsafe interactions leading to the hazard, missing or inadequate physical controls that might have prevented the accident, and any contextual factors that influenced the events.</li>
+  
+   <li>Questions. Create questions that will be answered later.</li>
 
-2. Model the existing safety control structure for this type of hazard. 
+  </ol>
 
-3. Analyze each component in loss. Examine the components of the control structure to determine why they were not effective in preventing the loss: Starting at the bottom of the control structure, show the role each component played in the accident and the explanation for their behavior (why they did what they did and why they thought it was the right thing to do at the time).
+ </li>
 
-  * Contributions to Accident 
+ <li>Model the existing safety control structure for this type of hazard.</li>
 
-  * Mental Model 
+ <li>Analyze each component in loss. Examine the components of the control structure to determine why they were not effective in preventing the loss. Show the role each component played in the accident and the explanation for their behavior (why they did what they did and why they thought it was the right thing to do at the time).
 
-  * Flaws 
+  <ol type="1">
+  
+   <li>Contributions to Accident</li>
 
-  * Context 
+   <li>Mental Model</li>
 
-  * Questions 
+   <li>Flaws</li>
 
-4. Identify flaws in the control structure as a whole (general systemic factors) that contributed to the loss. The systemic factors span the individual system control structure components. 
+   <li>Context</li>
 
-  * Communication and coordination
+   <li>Questions. Create questions that will be answered later.</li>
 
-  * Safety Information System (SIS)
+  </ol>
 
-  * Design of the safety management system 
+ <li>Identify flaws in the control structure as a whole (general systemic factors) that contributed to the loss. The systemic factors span the individual system control structure components. 
 
-  * Culture 
+  <ol type="1">
+   
+   <li>Communication and coordination</li>
 
-  * Changes and dynamics in the system and environment
+   <li>Safety Information System (SIS)</li>
 
-  * Economics
+   <li>Design of the safety management system</li>
 
-  * System environment
+   <li>Culture</li>
 
-  * Questions
+   <li>Changes and dynamics in the system and environment</li>
 
-5. Create recommendations for changes to the control structure to prevent a similar loss in the future. If appropriate, design a continuous improvement program for this hazard as part of your overall risk management program.
+   <li>Economics</li>
 
-  * Recommendations
+   <li>System environment</li>
 
-  * Implementation. Assign responsibility for implementation of recommendations, including prioritization, scheduling, budgeting, etc.
+   <li>Questions. Create questions that will be answered later.</li>
 
-  * Feedback. Establish a feedback system to determine whether the recommendations and implemenations were effective in strengthening the 
-controls. 
+  </ol>
 
-  * Follow-up
+ </li>
+
+ <li>Create recommendations for changes to the control structure to prevent a similar loss in the future. If appropriate, design a continuous improvement program for this hazard as part of your overall risk management program.
+
+  <ol type="1">
+
+   <li>Recommendations</li>
+
+   <li>Implementations. Assign responsibilities for implementations of recommendations, including prioritizations, scheduling, budgeting, etc.</li>
+
+   <li>Feedback. Establish a feedback system to determine whether the recommendations and implemenations were effective in strengthening the controls.</li>
+
+   <li>Follow-up</li>
+
+  </ol>
+
+ </li>
+
+</ol>
 
 
 ## Terminology
@@ -116,7 +119,7 @@ controls.
 <dt>System Constraints</dt>
 <dd>The ways that the goals can acceptably be achieved.</dd>
 
-<dt>Accident (sometimes called a Mishap)</dt>
+<dt>Accident a.k.a. Mishap</dt>
 <dd>An undesired, unacceptable, and unplanned event that results in a loss. For short, simply a loss.</dd>
 
 <dt>Incident or Near-Miss</dt>
