@@ -228,6 +228,15 @@ The safety culture in any organization is set by the top management. A sincere c
 Negative examples of safety cuture are e.g. culture of risk acceptance, culture of denial, culture of compliance, culture of documentation, culture of swagger.
 
 
+## Assumption-based leading indicators
+
+Assumptions are made during system development that are used to design safety into a system. When, over time, those assumptions no longer hold, then the organization is likely to migrate to a state of higher risk.
+
+Systems will always change and evolve over time, as will the environment in which the system operates. Changes may evolve slowly over time and their impact may not be obvious. Because changes are necessary and inevitable, processes must be created to ensure that safety is not degrading.
+
+Leading indicators are commonly used in some industries to identify when the system is migrating toward a state of higher risk. Assumption-based leading indicators, then, can be identified by checking the original assumptions during operations to make sure that they are still true.
+
+
 ## Comparisons
 
 <dl>
