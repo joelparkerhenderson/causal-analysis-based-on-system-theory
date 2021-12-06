@@ -33,6 +33,12 @@ https://psas.scripts.mit.edu/home/get_file4.php?name=CAST_handbook.pdf
 <dt>Controller</dt>
 <dd>A controler adjusts the system, and recieves feeback from it, in order to manage individual components, interactions among components and emergent properties.</dd>
 
+<dt>Process model</dt>
+<dd>What a controller believes about a process, including the current state of the process, how the it operates, and how to interact with it.</dd>
+
+<dt>Mental model</dt>
+<dd>What a person believes about a process, including the current state of the process, how the it operates, and how to interact with it.</dd>
+
 
 ## Perspectives
 
@@ -59,6 +65,19 @@ and intentional design.
 * Human behavior can be partially controlled through the design of a societal or organizational incentive structure or other management processes. 
 
 
+## System-Theoretic Accident Model and Processes (STAMP)
+
+STAMP is the accident causality model that underlies CAST.
+
+STAMP treats accidents as caused by complex interactions among physical systems, humans, and social systems. Safety is treated as a dynamic control problem rather than a failure prevention problem. No causes are omitted from the STAMP model. STAMP changes the emphasis from preventing failures to enforcing constraints on system behavior.  
+
+Key advantages:
+
+* STAMP applies to very complex systems because it works top-down from a high level of abstraction rather than bottom up. 
+
+* STAMP includes software, humans, organizations, safety culture, etc. as causal factors in accidents and other types of losses without having to treat them differently or separately. 
+
+
 ## Comparisons
 
 <dl>
@@ -71,9 +90,5 @@ and intentional design.
 
 <dt>CAST vs. chain-of-events causality model:</dt> CAST has a primary concern of emergent properties), which are properties that are not in the 
 summation of the individual components but “emerge” when the components interact. A chain of events causality model uses an assumption of direct causality between one idependent event and the next indpendent event; also known as "Heinrich’s Domino Model" with one domino falling which triggers the next domino falling; also known as "Reason’s Swiss Cheese Model" with failures akin to holes in succesive slices.
-
-<dt>CAST vs. System-Theoretic Accident Model and Processes (STAMP):</dt>
-<dd>CAST is ?. STAMP underlies CAST; STAMP is based on systems theory rather than traditional decomposition and reliability theory.
-
 
 </dl>
