@@ -96,6 +96,15 @@ The goal of analysis is to identify the limitations of the safety control struct
 
 5. Create recommendations for changes to the control structure to prevent a similar loss in the future. If appropriate, design a continuous improvement program for this hazard as part of your overall risk management program.
 
+  * Recommendations
+
+  * Implementation. Assign responsibility for implementation of recommendations, including prioritization, scheduling, budgeting, etc.
+
+  * Feedback. Establish a feedback system to determine whether the recommendations and implemenations were effective in strengthening the 
+controls. 
+
+  * Follow-up
+
 
 ## Terminology
 
@@ -235,6 +244,19 @@ Assumptions are made during system development that are used to design safety in
 Systems will always change and evolve over time, as will the environment in which the system operates. Changes may evolve slowly over time and their impact may not be obvious. Because changes are necessary and inevitable, processes must be created to ensure that safety is not degrading.
 
 Leading indicators are commonly used in some industries to identify when the system is migrating toward a state of higher risk. Assumption-based leading indicators, then, can be identified by checking the original assumptions during operations to make sure that they are still true.
+
+
+## Introducing CAST into an organization
+
+CAST involves a paradigm change in the way people think about and identify accident causes. Introducing CAST into an organization may require effort. 
+
+Advice:
+
+1. Demonstrate that this provides results that are significant improvements, while also being time efficient and cost effective.
+
+2. There must be buy-in at the top. Grab the opportunity to make changes after a major loss.
+
+3. Make the investigation team independent of the management of the group in which the events occurred, and report to a higher level of management. 
 
 
 ## Comparisons
