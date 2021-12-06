@@ -34,6 +34,17 @@ https://psas.scripts.mit.edu/home/get_file4.php?name=CAST_handbook.pdf
 <dd>A controler adjusts the system, and recieves feeback from it, in order to manage individual components, interactions among components and emergent properties.</dd>
 
 
+## Perspectives
+
+<dl>
+
+<dt>Human error is a symptom, not a cause.</dt>
+<dd>A systems approach to accident causation starts from the premise that human error is a symptom of a system that needs to be redesigned. Accident analysis should identify the design flaws and recommend ways they can be fixed, not blame the operators for the consequences of those design flaws.</dd>
+
+<dt>Blame is the enemy of saftey.</dt>
+<dd>Focusing on blame seriously hinders what we learn from accidents, because important information is often deliberately hidden and research is often deliberately deflected. Focus on explanations, not accusations. Focus on the system, not the people. Focus on learning and improvements, not finger-pointing and punishments.</dd>
+
+
 ## Comparisons
 
 <dl>
