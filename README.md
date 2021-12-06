@@ -5,7 +5,9 @@ Causal Analysis based on System Theory (CAST) is an accident analysis technique 
 https://psas.scripts.mit.edu/home/get_file4.php?name=CAST_handbook.pdf
 
 
-## CAST goals
+## CAST introduction
+
+CAST goals:
 
 1. Include all causes and optimize all learning, in order to improve the whole system; do not focus on merely a few “probable causes” or one “root cause”, and do not focus on fixing merely a few areas or one area.
 
@@ -16,6 +18,18 @@ https://psas.scripts.mit.edu/home/get_file4.php?name=CAST_handbook.pdf
 4. Provide a blame-free explanation of why the loss occurred; consider “why” and “how” rather than “who.”
 
 5. Use a comprehensive accident causality model that emphasizes why the controls that were created to prevent the particular type of loss were not effective in the case at hand and how to strengthen the safety control structure to prevent similar losses in the future. 
+
+CAST steps:
+
+1. Assemble basic information
+
+2. Model safety control structure
+
+3. Analyze each component in loss.
+
+4. Identify control structure flaws.
+
+5. Create improvement program.
 
 
 ## Terminology
