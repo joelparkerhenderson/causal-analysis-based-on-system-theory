@@ -11,7 +11,7 @@ Accidents create learning opportunities to look closely at the operation of a sy
 
 1. Include all causes and optimize all learning, in order to improve the system as a whole; do not focus on merely a few “probable causes” or one “root cause”, and do not focus on fixing merely a few areas or one area.
 
-2. Reduce hindsight bias. 
+2. Reduce hindsight bias. A clue that hindsight bias is involved is when you see the words “should have”, “could have”, or “if only”. 
 
 3. Take a system’s view of human behavior. Usually the actions of the operators will be found to be understandable when the reasons for their behaviors are examined.  
 
@@ -34,11 +34,11 @@ The goal of analysis is to identify the limitations of the safety control struct
 
    <li>Accident. Describe the loss.</li>
 
-   <li>Hazards. Describe the system states and then environment conditions that led to the accident.</li>
+   <li>Hazards. Describe the system states and environment conditions that led to the accident.</li>
 
-   <li>Constraints. Identify the system-level safety constraints required to prevent the hazard (the system safety requirements and constraints).</li>
+   <li>Constraints. Identify the system-level safety constraints required to prevent the hazard.</li>
 
-   <li>Events. Describe what happened (the events) without conclusions nor blame. Generate questions that need to be answered to explain why the events occurred.</li>
+   <li>Events. Describe what happened without conclusions and without blame.</li>
 
    <li>Physical loss. Analyze the physical loss in terms of the physical equipment and controls, the requirements on the physical design to prevent the hazard involved, the physical controls (emergency and safety equipment) included in the design to prevent this type of accident, failures and unsafe interactions leading to the hazard, missing or inadequate physical controls that might have prevented the accident, and any contextual factors that influenced the events.</li>
   
@@ -154,6 +154,9 @@ The goal of analysis is to identify the limitations of the safety control struct
 
 <dt>Safety culture</dt>
 <dd>The values and assumptions in the industry and organization used to make safety-related decisions. Examples include culture of risk acceptance, culture of denial, culture of compliance, culture of documentatio, culture of swagger, such as values and deep cultural assumptions, organizational rules/policies/practices, and surface level cultural artifacts.</dd>
+
+<dt>Hindsight bias</dt>
+<dd>Hindsight bias is a psychological phenomenon whereby people convince themselves after an event that they could/should have predicted the event.</dd>
 
 </dl>
 
