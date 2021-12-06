@@ -126,8 +126,7 @@ controls.
 <dd>A system state or set of conditions that, together with specific environmental conditions, can lead to an accident or loss.</dd>
 
 <dt>Causality model</dt>
-<dd>A causality model explains why something happened. For an accident, a causality model is used to explain why the accident occurred.
-</dl>
+<dd>A causality model explains why something happened. For an accident, a causality model is used to explain why the accident occurred.</dd>
 
 <dt>Emergent properties</dt>
 <dd>These arise from the relationships among the parts of the system, that is, by how they interact and fit together.</dd>
@@ -153,6 +152,7 @@ controls.
 <dt>Safety culture</dt>
 <dd>The values and assumptions in the industry and organization used to make safety-related decisions. Examples include culture of risk acceptance, culture of denial, culture of compliance, culture of documentatio, culture of swagger, such as values and deep cultural assumptions, organizational rules/policies/practices, and surface level cultural artifacts.</dd>
 
+</dl>
 
 
 ## Perspectives
