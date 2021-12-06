@@ -45,6 +45,20 @@ https://psas.scripts.mit.edu/home/get_file4.php?name=CAST_handbook.pdf
 <dd>Focusing on blame seriously hinders what we learn from accidents, because important information is often deliberately hidden and research is often deliberately deflected. Focus on explanations, not accusations. Focus on the system, not the people. Focus on learning and improvements, not finger-pointing and punishments.</dd>
 
 
+## Controls
+
+Control is interpreted broadly and, therefore, includes everything that is currently done in safety engineering, plus more. 
+
+* Component controls e.g. interlocks, barriers, fail-safes, redundancy, 
+and intentional design. 
+
+* Process controls e.g. development and training processes, manufacturing processes and procedures, maintenance processes, and general system operating processes. 
+
+* Social controls e.g. shared value systems, organizational culture, government regulation, insurance, law, the courts, and individual self-interest.
+
+* Human behavior can be partially controlled through the design of a societal or organizational incentive structure or other management processes. 
+
+
 ## Comparisons
 
 <dl>
