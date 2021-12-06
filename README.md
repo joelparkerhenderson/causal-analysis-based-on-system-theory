@@ -80,7 +80,7 @@ Accidents create learning opportunities to look closely at the operation of a sy
 <dd>A systems approach to accident causation starts from the premise that human error is a symptom of a system that needs to be redesigned. Accident analysis should identify the design flaws and recommend ways they can be fixed, not blame the operators for the consequences of those design flaws.</dd>
 
 <dt>Blame is the enemy of saftey.</dt>
-<dd>Focusing on blame seriously hinders what we learn from accidents, because important information is often deliberately hidden and research is often deliberately deflected. Focus on explanations, not accusations. Focus on the system, not the people. Focus on learning and improvements, not finger-pointing and punishments.</dd>
+<dd>Focusing on blame seriously hinders what we learn from accidents, because important information is often deliberately hidden and investigation is often deliberately deflected. Focus on explanations, not accusations. Focus on learning and improvements, not finger-pointing and punishments.</dd>
 
 
 ## CAST analysis 
@@ -181,9 +181,7 @@ and intentional design.
 
 * Process controls e.g. development and training processes, manufacturing processes and procedures, maintenance processes, and general system operating processes. 
 
-* Social controls e.g. shared value systems, organizational culture, government regulation, insurance, law, the courts, and individual self-interest.
-
-* Human behavior can be partially controlled through the design of a societal or organizational incentive structure or other management processes. 
+* Social controls e.g. shared value systems, societal and organizational culture and incentive structures, government regulation, insurance, and individual self-interest.
 
 
 ## System-Theoretic Accident Model and Processes (STAMP)
@@ -241,9 +239,11 @@ CAST involves a paradigm change in the way people think about and identify accid
 
 Advice:
 
-1. Demonstrate that this provides results that are significant improvements, while also being time efficient and cost effective.
+1. Grab the opportunity to make changes after a major loss.
 
-2. There must be buy-in at the top. Grab the opportunity to make changes after a major loss.
+2. Demonstrate that this provides results that are significant improvements, while also being time efficient and cost effective.
+
+3. Achieve buy-in at the top.
 
 3. Make the investigation team independent of the management of the group in which the events occurred, and report to a higher level of management. 
 
