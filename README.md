@@ -20,6 +20,69 @@ Accidents create learning opportunities to look closely at the operation of a sy
 5. Use a comprehensive accident causality model that emphasizes why the controls that were created to prevent the particular type of loss were not effective in the case at hand and how to strengthen the safety control structure to prevent similar losses in the future. 
 
 
+## Terminology
+
+<dl>
+
+<dt>System Goals</dt> 
+<dd>The reason the system was created in the first place.</dd>
+
+<dt>System Constraints</dt>
+<dd>The ways that the goals can acceptably be achieved.</dd>
+
+<dt>Accident a.k.a. Mishap</dt>
+<dd>An undesired, unacceptable, and unplanned event that results in a loss. For short, simply a loss.</dd>
+
+<dt>Incident or Near-Miss</dt>
+<dd>An undesired, unacceptable, and unplanned event that does not result in a loss, but could have under different conditions or in a different environment.</dd>
+
+<dt>Hazard or vulnerability</dt>
+<dd>A system state or set of conditions that, together with specific environmental conditions, can lead to an accident or loss.</dd>
+
+<dt>Causality model</dt>
+<dd>A causality model explains why something happened. For an accident, a causality model is used to explain why the accident occurred.</dd>
+
+<dt>Emergent properties</dt>
+<dd>These arise from the relationships among the parts of the system, that is, by how they interact and fit together.</dd>
+
+<dt>Controller</dt>
+<dd>A controler adjusts the system, and recieves feeback from it, in order to manage individual components, interactions among components and emergent properties.</dd>
+
+<dt>Process model</dt>
+<dd>What a controller believes about a process, including the current state of the process, how the it operates, and how to interact with it.</dd>
+
+<dt>Mental model</dt>
+<dd>What a person believes about a process, including the current state of the process, how the it operates, and how to interact with it.</dd>
+
+<dt>Safety information system (SIS)</dt>
+<dd>Store and communicate information about hazards, detecting dangerous trends and deviations, evaluating the effectiveness of controls and standards, comparing models and risk assessments with actual behavior, identifying and controlling hazards to improve designs and standards, etc.</dd>
+
+<dt>Safety management system (SMS)</dt>
+<dd>The safety management system is theoretically the same as the safety control structure used in CAST analyses. The more general term “safety control structure” is used here as some industries define an SMS that excludes important controls necessary to prevent accidents.</dd>
+
+<dt>Safety control structure (SCS)</dt> 
+<dd>Safety control structure (SCS) is a more general term than safety management system (SMS). This document uses SCS because some industries define an SMS that excludes important controls necessary to prevent accidents.</dd>
+
+<dt>Safety culture</dt>
+<dd>The values and assumptions in the industry and organization used to make safety-related decisions.</dd>
+
+<dt>Hindsight bias</dt>
+<dd>Hindsight bias is a psychological phenomenon whereby people convince themselves after an event that they could/should have predicted the event.</dd>
+
+</dl>
+
+
+## Perspectives
+
+<dl>
+
+<dt>Human error is a symptom, not a cause.</dt>
+<dd>A systems approach to accident causation starts from the premise that human error is a symptom of a system that needs to be redesigned. Accident analysis should identify the design flaws and recommend ways they can be fixed, not blame the operators for the consequences of those design flaws.</dd>
+
+<dt>Blame is the enemy of saftey.</dt>
+<dd>Focusing on blame seriously hinders what we learn from accidents, because important information is often deliberately hidden and research is often deliberately deflected. Focus on explanations, not accusations. Focus on the system, not the people. Focus on learning and improvements, not finger-pointing and punishments.</dd>
+
+
 ## CAST analysis 
 
 The goal of analysis is to identify the limitations of the safety control structure that allowed the loss and identify how to strengthen the structure in the future.
@@ -109,69 +172,6 @@ The goal of analysis is to identify the limitations of the safety control struct
 </ol>
 
 
-## Terminology
-
-<dl>
-
-<dt>System Goals</dt> 
-<dd>The reason the system was created in the first place.</dd>
-
-<dt>System Constraints</dt>
-<dd>The ways that the goals can acceptably be achieved.</dd>
-
-<dt>Accident a.k.a. Mishap</dt>
-<dd>An undesired, unacceptable, and unplanned event that results in a loss. For short, simply a loss.</dd>
-
-<dt>Incident or Near-Miss</dt>
-<dd>An undesired, unacceptable, and unplanned event that does not result in a loss, but could have under different conditions or in a different environment.</dd>
-
-<dt>Hazard or vulnerability</dt>
-<dd>A system state or set of conditions that, together with specific environmental conditions, can lead to an accident or loss.</dd>
-
-<dt>Causality model</dt>
-<dd>A causality model explains why something happened. For an accident, a causality model is used to explain why the accident occurred.</dd>
-
-<dt>Emergent properties</dt>
-<dd>These arise from the relationships among the parts of the system, that is, by how they interact and fit together.</dd>
-
-<dt>Controller</dt>
-<dd>A controler adjusts the system, and recieves feeback from it, in order to manage individual components, interactions among components and emergent properties.</dd>
-
-<dt>Process model</dt>
-<dd>What a controller believes about a process, including the current state of the process, how the it operates, and how to interact with it.</dd>
-
-<dt>Mental model</dt>
-<dd>What a person believes about a process, including the current state of the process, how the it operates, and how to interact with it.</dd>
-
-<dt>Safety information system (SIS)</dt>
-<dd>Store and communicate information about hazards, detecting dangerous trends and deviations, evaluating the effectiveness of controls and standards, comparing models and risk assessments with actual behavior, identifying and controlling hazards to improve designs and standards, etc.</dd>
-
-<dt>Safety management system (SMS)</dt>
-<dd>The safety management system is theoretically the same as the safety control structure used in CAST analyses. The more general term “safety control structure” is used here as some industries define an SMS that excludes important controls necessary to prevent accidents.</dd>
-
-<dt>Safety control structure (SCS)</dt> 
-<dd>Safety control structure (SCS) is a more general term than safety management system (SMS). This document uses SCS because some industries define an SMS that excludes important controls necessary to prevent accidents.</dd>
-
-<dt>Safety culture</dt>
-<dd>The values and assumptions in the industry and organization used to make safety-related decisions. Examples include culture of risk acceptance, culture of denial, culture of compliance, culture of documentatio, culture of swagger, such as values and deep cultural assumptions, organizational rules/policies/practices, and surface level cultural artifacts.</dd>
-
-<dt>Hindsight bias</dt>
-<dd>Hindsight bias is a psychological phenomenon whereby people convince themselves after an event that they could/should have predicted the event.</dd>
-
-</dl>
-
-
-## Perspectives
-
-<dl>
-
-<dt>Human error is a symptom, not a cause.</dt>
-<dd>A systems approach to accident causation starts from the premise that human error is a symptom of a system that needs to be redesigned. Accident analysis should identify the design flaws and recommend ways they can be fixed, not blame the operators for the consequences of those design flaws.</dd>
-
-<dt>Blame is the enemy of saftey.</dt>
-<dd>Focusing on blame seriously hinders what we learn from accidents, because important information is often deliberately hidden and research is often deliberately deflected. Focus on explanations, not accusations. Focus on the system, not the people. Focus on learning and improvements, not finger-pointing and punishments.</dd>
-
-
 ## Controls
 
 Control is interpreted broadly and, therefore, includes everything that is currently done in safety engineering, plus more. 
@@ -215,30 +215,13 @@ STPA disconnects may include:
 * The system and its environment may have changed over time after the system went into operation, negating the effectiveness of the designed controls and introducing new causal scenarios that were not analyzed originally.
 
 
-## Safety philosophy
-
-1. All injuries and accidents are preventable. 
-
-2. Safety and productivity go hand in hand. Improving safety management leads to improving other quality and performance factors. Maximum business performance requires safety. 
-
-3. Safety has to be built into a product or the design of a service. Adding it later will be less effective and more expensive. After-the-fact assurance cannot guarantee a safe design where safety is not already present. It is better to build safety in than try to ensure it after the fact.  
-
-4. The goal of accident/incident causality analysis is to determine why the loss (or near loss) occurred so that appropriate changes can be made rather than to find someone or something to blame. 
-
-5. Incidents and accidents are an important window into systems that are not operating safely and should trigger comprehensive causal analysis and improvement actions. 
-
-6. Safety information must be surfaced without fear. Safety analysis will be conducted without blame. 
-
-7. Safety commitment, openness and honesty is valued and rewarded in the organization.
-
-8. Effective communication and the sharing of information is essential to preventing losses. 
-
-
 ## Safety culture
 
 The values and assumptions in the industry and organization used to make safety-related decisions. 
 
 The safety culture in any organization is set by the top management. A sincere commitment by management to safety is often cited as the most important factor in achieving it. Management needs to support employees when they exhibit a reasonable concern for safety in their work and when they put safety ahead of other goals such as schedule and cost. 
+
+See [safety philosophy](https://github.com/joelparkerhenderson/safety-philosophy)
 
 Negative examples of safety cuture are e.g. culture of risk acceptance, culture of denial, culture of compliance, culture of documentation, culture of swagger.
 
@@ -269,13 +252,13 @@ Advice:
 
 <dl>
 
-<dt>CAST vs. System Theoretic Process Analysis (STPA):</dt>
+<dt>CAST vs. System Theoretic Process Analysis (STPA)</dt>
 <dd>CAST assists in identifying one particular scenario that occurred, after the fact. STPA is a hazard analysis tool based on the same powerful model of causality as CAST; STPA proactive analysis can identify all potential scenarios that may lead to losses, and can prevent accidents before they happen. 
 
-<dt>CAST vs. Root Cause Analysis (RCA):</dt>
+<dt>CAST vs. Root Cause Analysis (RCA)</dt>
 <dd>CAST is complex and multifactorial, because systems safety covers the total spectrum of risk management. RCA aims to find a single straightforward cause for a loss; this tends to make it easier to devise a response to a loss such as a way to “solve the problem”.</dd>
 
-<dt>CAST causality model vs. chain-of-events causality model:</dt> 
+<dt>CAST STAMP causality model vs. chain-of-events causality model</dt> 
 <dd>CAST treats safety as a holistic system control problem, inluding emergent properties, not as an individual component failure problem. A chain of events causality model uses an assumption of direct causality between one idependent event and the next indpendent event; also known as "Heinrich’s Domino Model" with one domino falling which triggers the next domino falling; also known as "Reason’s Swiss Cheese Model" with failures akin to holes in succesive slices.
 
 </dl>
