@@ -2,9 +2,8 @@
 
 Causal Analysis based on System Theory (CAST) is an accident analysis technique that maximizes learning from accidents and incidents.
 
-https://psas.scripts.mit.edu/home/get_file4.php?name=CAST_handbook.pdf
 
-## CAST perspectives
+## CAST Introduction
 
 <dl>
 
@@ -119,7 +118,7 @@ The goal of analysis is to identify the limitations of the safety control struct
 </ol>
 
 
-## Controls
+## CAST Controls
 
 Control is interpreted broadly and, therefore, includes everything that is currently done in safety engineering, plus more. 
 
