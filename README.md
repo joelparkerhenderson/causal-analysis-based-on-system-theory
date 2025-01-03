@@ -1,7 +1,10 @@
 # Causal Analysis based on System Theory
 
-Causal Analysis based on System Theory (CAST) is an accident analysis technique that maximizes learning from accidents and incidents.
+Causal Analysis based on System Theory (CAST) is an accident analysis technique that maximizes learning from accidents and incidents. It is based on the System Theoretic Accident Model and Processes (STAMP) and System Theoretic Process Analysis (STPA). 
 
+[Cast Handbook: How to Learn More from Incidents and Accidents - By Nancy G. Leveson, MIT](CAST_Handbook.pdf)
+
+This document is a summary of the CAST Handbook.
 
 ## CAST Introduction
 
