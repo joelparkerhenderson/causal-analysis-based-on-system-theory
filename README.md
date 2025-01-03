@@ -46,7 +46,7 @@ Accidents create learning opportunities to look closely at the operation of a sy
 <dd>These arise from the relationships among the parts of the system, that is, by how they interact and fit together.</dd>
 
 <dt>Controller</dt>
-<dd>A controler adjusts the system, and recieves feeback from it, in order to manage individual components, interactions among components and emergent properties.</dd>
+<dd>A controller adjusts the system, and receives feedback from it, in order to manage individual components, interactions among components and emergent properties.</dd>
 
 <dt>Process model</dt>
 <dd>What a controller believes about a process, including the current state of the process, how the it operates, and how to interact with it.</dd>
@@ -79,7 +79,7 @@ Accidents create learning opportunities to look closely at the operation of a sy
 <dt>Human error is a symptom, not a cause.</dt>
 <dd>A systems approach to accident causation starts from the premise that human error is a symptom of a system that needs to be redesigned. Accident analysis should identify the design flaws and recommend ways they can be fixed, not blame the operators for the consequences of those design flaws.</dd>
 
-<dt>Blame is the enemy of saftey.</dt>
+<dt>Blame is the enemy of safety.</dt>
 <dd>Focusing on blame seriously hinders what we learn from accidents, because important information is often deliberately hidden and investigation is often deliberately deflected. Focus on explanations, not accusations. Focus on learning and improvements, not finger-pointing and punishments.</dd>
 
 
@@ -161,7 +161,7 @@ The goal of analysis is to identify the limitations of the safety control struct
 
    <li>Implementations. Assign responsibilities for implementations of recommendations, including prioritizations, scheduling, budgeting, etc.</li>
 
-   <li>Feedback. Establish a feedback system to determine whether the recommendations and implemenations were effective in strengthening the controls.</li>
+   <li>Feedback. Establish a feedback system to determine whether the recommendations and implementations were effective in strengthening the controls.</li>
 
    <li>Follow-up</li>
 
@@ -221,7 +221,7 @@ The safety culture in any organization is set by the top management. A sincere c
 
 See [safety philosophy](https://github.com/joelparkerhenderson/safety-philosophy)
 
-Negative examples of safety cuture are e.g. culture of risk acceptance, culture of denial, culture of compliance, culture of documentation, culture of swagger.
+Negative examples of safety culture are e.g. culture of risk acceptance, culture of denial, culture of compliance, culture of documentation, culture of swagger.
 
 
 ## Assumption-based leading indicators
@@ -259,6 +259,6 @@ Advice:
 <dd>CAST is complex and multifactorial, because systems safety covers the total spectrum of risk management. RCA aims to find a single straightforward cause for a loss; this tends to make it easier to devise a response to a loss such as a way to “solve the problem”.</dd>
 
 <dt>CAST STAMP causality model vs. chain-of-events causality model</dt> 
-<dd>CAST treats safety as a holistic system control problem, inluding emergent properties, not as an individual component failure problem. A chain of events causality model uses an assumption of direct causality between one idependent event and the next indpendent event; also known as "Heinrich’s Domino Model" with one domino falling which triggers the next domino falling; also known as "Reason’s Swiss Cheese Model" with failures akin to holes in succesive slices.
+<dd>CAST treats safety as a holistic system control problem, including emergent properties, not as an individual component failure problem. A chain of events causality model uses an assumption of direct causality between one independent event and the next independent event; also known as "Heinrich’s Domino Model" with one domino falling which triggers the next domino falling; also known as "Reason’s Swiss Cheese Model" with failures akin to holes in successive slices.
 
 </dl>
