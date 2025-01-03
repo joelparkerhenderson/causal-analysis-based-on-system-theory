@@ -4,6 +4,17 @@ Causal Analysis based on System Theory (CAST) is an accident analysis technique 
 
 https://psas.scripts.mit.edu/home/get_file4.php?name=CAST_handbook.pdf
 
+## CAST perspectives
+
+<dl>
+
+<dt>Human error is a symptom, not a cause.</dt>
+<dd>A systems approach to accident causation starts from the premise that human error is a symptom of a system that needs to be redesigned. Accident analysis should identify the design flaws and recommend ways they can be fixed, not blame the operators for the consequences of those design flaws.</dd>
+
+<dt>Blame is the enemy of safety.</dt>
+<dd>Focusing on blame seriously hinders what we learn from accidents, because important information is often deliberately hidden and investigation is often deliberately deflected. Focus on explanations, not accusations. Focus on learning and improvements, not finger-pointing and punishments.</dd>
+
+</dl>
 
 ## CAST goals
 
@@ -18,70 +29,6 @@ Accidents create learning opportunities to look closely at the operation of a sy
 4. Provide a blame-free explanation of why the loss occurred; consider “why” and “how” rather than “who.”
 
 5. Use a comprehensive accident causality model that emphasizes why the controls that were created to prevent the particular type of loss were not effective in the case at hand and how to strengthen the safety control structure to prevent similar losses in the future. 
-
-
-## Terminology
-
-<dl>
-
-<dt>System Goals</dt> 
-<dd>The reason the system was created in the first place.</dd>
-
-<dt>System Constraints</dt>
-<dd>The ways that the goals can acceptably be achieved.</dd>
-
-<dt>Accident a.k.a. Mishap</dt>
-<dd>An undesired, unacceptable, and unplanned event that results in a loss. For short, simply a loss.</dd>
-
-<dt>Incident or Near-Miss</dt>
-<dd>An undesired, unacceptable, and unplanned event that does not result in a loss, but could have under different conditions or in a different environment.</dd>
-
-<dt>Hazard or vulnerability</dt>
-<dd>A system state or set of conditions that, together with specific environmental conditions, can lead to an accident or loss.</dd>
-
-<dt>Causality model</dt>
-<dd>A causality model explains why something happened. For an accident, a causality model is used to explain why the accident occurred.</dd>
-
-<dt>Emergent properties</dt>
-<dd>These arise from the relationships among the parts of the system, that is, by how they interact and fit together.</dd>
-
-<dt>Controller</dt>
-<dd>A controller adjusts the system, and receives feedback from it, in order to manage individual components, interactions among components and emergent properties.</dd>
-
-<dt>Process model</dt>
-<dd>What a controller believes about a process, including the current state of the process, how the it operates, and how to interact with it.</dd>
-
-<dt>Mental model</dt>
-<dd>What a person believes about a process, including the current state of the process, how the it operates, and how to interact with it.</dd>
-
-<dt>Safety information system (SIS)</dt>
-<dd>Store and communicate information about hazards, detecting dangerous trends and deviations, evaluating the effectiveness of controls and standards, comparing models and risk assessments with actual behavior, identifying and controlling hazards to improve designs and standards, etc.</dd>
-
-<dt>Safety management system (SMS)</dt>
-<dd>The safety management system is theoretically the same as the safety control structure used in CAST analyses. The more general term “safety control structure” is used here as some industries define an SMS that excludes important controls necessary to prevent accidents.</dd>
-
-<dt>Safety control structure (SCS)</dt> 
-<dd>Safety control structure (SCS) is a more general term than safety management system (SMS). This document uses SCS because some industries define an SMS that excludes important controls necessary to prevent accidents.</dd>
-
-<dt>Safety culture</dt>
-<dd>The values and assumptions in the industry and organization used to make safety-related decisions.</dd>
-
-<dt>Hindsight bias</dt>
-<dd>Hindsight bias is a psychological phenomenon whereby people convince themselves after an event that they could/should have predicted the event.</dd>
-
-</dl>
-
-
-## Perspectives
-
-<dl>
-
-<dt>Human error is a symptom, not a cause.</dt>
-<dd>A systems approach to accident causation starts from the premise that human error is a symptom of a system that needs to be redesigned. Accident analysis should identify the design flaws and recommend ways they can be fixed, not blame the operators for the consequences of those design flaws.</dd>
-
-<dt>Blame is the enemy of safety.</dt>
-<dd>Focusing on blame seriously hinders what we learn from accidents, because important information is often deliberately hidden and investigation is often deliberately deflected. Focus on explanations, not accusations. Focus on learning and improvements, not finger-pointing and punishments.</dd>
-
 
 ## CAST analysis 
 
@@ -260,5 +207,59 @@ Advice:
 
 <dt>CAST STAMP causality model vs. chain-of-events causality model</dt> 
 <dd>CAST treats safety as a holistic system control problem, including emergent properties, not as an individual component failure problem. A chain of events causality model uses an assumption of direct causality between one independent event and the next independent event; also known as "Heinrich’s Domino Model" with one domino falling which triggers the next domino falling; also known as "Reason’s Swiss Cheese Model" with failures akin to holes in successive slices.
+
+</dl>
+
+
+
+
+## Terminology
+
+<dl>
+
+<dt>System Goals</dt> 
+<dd>The reason the system was created in the first place.</dd>
+
+<dt>System Constraints</dt>
+<dd>The ways that the goals can acceptably be achieved.</dd>
+
+<dt>Accident a.k.a. Mishap</dt>
+<dd>An undesired, unacceptable, and unplanned event that results in a loss. For short, simply a loss.</dd>
+
+<dt>Incident or Near-Miss</dt>
+<dd>An undesired, unacceptable, and unplanned event that does not result in a loss, but could have under different conditions or in a different environment.</dd>
+
+<dt>Hazard or vulnerability</dt>
+<dd>A system state or set of conditions that, together with specific environmental conditions, can lead to an accident or loss.</dd>
+
+<dt>Causality model</dt>
+<dd>A causality model explains why something happened. For an accident, a causality model is used to explain why the accident occurred.</dd>
+
+<dt>Emergent properties</dt>
+<dd>These arise from the relationships among the parts of the system, that is, by how they interact and fit together.</dd>
+
+<dt>Controller</dt>
+<dd>A controller adjusts the system, and receives feedback from it, in order to manage individual components, interactions among components and emergent properties.</dd>
+
+<dt>Process model</dt>
+<dd>What a controller believes about a process, including the current state of the process, how the it operates, and how to interact with it.</dd>
+
+<dt>Mental model</dt>
+<dd>What a person believes about a process, including the current state of the process, how the it operates, and how to interact with it.</dd>
+
+<dt>Safety information system (SIS)</dt>
+<dd>Store and communicate information about hazards, detecting dangerous trends and deviations, evaluating the effectiveness of controls and standards, comparing models and risk assessments with actual behavior, identifying and controlling hazards to improve designs and standards, etc.</dd>
+
+<dt>Safety management system (SMS)</dt>
+<dd>The safety management system is theoretically the same as the safety control structure used in CAST analyses. The more general term “safety control structure” is used here as some industries define an SMS that excludes important controls necessary to prevent accidents.</dd>
+
+<dt>Safety control structure (SCS)</dt> 
+<dd>Safety control structure (SCS) is a more general term than safety management system (SMS). This document uses SCS because some industries define an SMS that excludes important controls necessary to prevent accidents.</dd>
+
+<dt>Safety culture</dt>
+<dd>The values and assumptions in the industry and organization used to make safety-related decisions.</dd>
+
+<dt>Hindsight bias</dt>
+<dd>Hindsight bias is a psychological phenomenon whereby people convince themselves after an event that they could/should have predicted the event.</dd>
 
 </dl>
