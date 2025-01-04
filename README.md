@@ -213,8 +213,6 @@ Advice:
 </dl>
 
 
-
-
 ## Terminology
 
 <dl>
@@ -265,3 +263,26 @@ Advice:
 <dd>Hindsight bias is a psychological phenomenon whereby people convince themselves after an event that they could/should have predicted the event.</dd>
 
 </dl>
+
+
+## See Also
+
+Starters:
+
+* [CAST Tutorial + STAMP Workshop](http://psas.scripts.mit.edu/home/wp-content/uploads/2013/04/CAST_Tutorial-2013.pdf)
+
+* [Introduction to STAMP, STPA and CAST - By Software Intensive Systems at UL](https://www.ul.com/sis/blog/introduction-to-stamp-stpa-and-cast)
+
+Practicals:
+
+* [The Evolution of SRE at Google: Using STAMP to improve resilience in Google production systems](https://www.usenix.org/publications/loginonline/evolution-sre-google)
+
+* [What do STAMP-based Analysts Expect from Safety Investigations? - By John Stoop and Ludwig Benner Jr](https://www.sciencedirect.com/science/article/pii/S1877705815038680)
+
+Books:
+
+* [Engineering a Safer World: Systems Thinking Applied to Safety - By Nancy G. Leveson](https://mitpress.mit.edu/9780262533690/engineering-a-safer-world/)
+
+Opinions:
+
+* [Thoughts on STAMP - By Lorin Hochstein](https://surfingcomplexity.blog/2020/08/07/thoughts-on-stamp/)
