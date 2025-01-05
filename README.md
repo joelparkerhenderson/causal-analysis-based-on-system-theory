@@ -4,9 +4,19 @@ Causal Analysis based on System Theory (CAST) is an accident analysis technique 
 
 [Cast Handbook: How to Learn More from Incidents and Accidents - By Nancy G. Leveson, MIT](http://sunnyday.mit.edu/CAST-Handbook.pdf)
 
+The purpose of CAST can be summarized in four points:
+
+* **Causal**: Accidents are due to many interacting causes, not one root cause nor a few probable causes.
+
+* **Analysis**: Do a blame-free examination of why the loss occurred, and how it occurred i.e. "ask why and how, not who".
+
+* **Systems**: Discover many interacting causes, then plan many interacting ways to improve all the systems.
+
+* **Theory**: Improve more by leveraging scientific control theory and process model theory.
+
 This document is a summary of the CAST Handbook.
 
-## CAST Introduction
+## CAST Perspectives
 
 <dl>
 
