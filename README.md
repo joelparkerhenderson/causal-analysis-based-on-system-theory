@@ -10,7 +10,7 @@ The purpose of CAST can be summarized in four points:
 
 * **Analysis**: Don't blame people, because it turns out you learn more by doing a blame-free examinations of why a loss occurred, and how it occurred i.e. "ask why and how, not who".
 
-* **System**: Don't fix just the one thing that broke, because it turns out it's smarter to discover multiple causes, then plan multiple ways to improve the whole system.
+* **System**: Don't fix just the one thing that broke, because it turns out it's smarter to discover multiple causes, then consider multiple ways to improve the whole system.
 
 * **Theory**: Don't wait until something breaks, because it turns out it's wiser to plan ahead by using scientific control theory and process model theory.
 
